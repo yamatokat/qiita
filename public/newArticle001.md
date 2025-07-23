@@ -1,10 +1,10 @@
 ---
 title: Github連携したのでテスト投稿
 tags:
-  - ''
+  - GitHub
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-07-23T11:28:45+09:00'
+id: 1fdae1c591cd6cfac4e8
 organization_url_name: null
 slide: false
 ignorePublish: false
